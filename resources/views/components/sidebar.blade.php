@@ -3,7 +3,7 @@
         <div class="m-header">
             <a href="{{ route('cashier.index') }}" class="b-brand">
                 <div class="logo logo-lg">
-                    <h5 class="fw-bold mb-0 text-dark">POS SYSTEM</h5>
+                    <h5 class="fw-bold mb-0 text-dark">Kasir.id</h5>
                 </div>
                 <div class="logo logo-sm">
                     <h5 class="fw-bold mb-0 text-dark">PS</h5>

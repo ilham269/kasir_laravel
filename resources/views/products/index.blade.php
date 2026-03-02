@@ -16,7 +16,7 @@
             <table class="table table-striped mb-0">
                 <thead>
                     <tr>
-                        <th width="60">#</th>
+                        <th width="60">No</th>
                         <th width="110">Gambar</th>
                         <th>Nama</th>
                         <th>Kategori</th>

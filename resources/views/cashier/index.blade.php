@@ -81,7 +81,7 @@
             <table class="table table-striped mb-0">
                 <thead>
                     <tr>
-                        <th width="60">#</th>
+                        <th width="60">No</th>
                         <th>Produk</th>
                         <th>Barcode</th>
                         <th>Harga</th>

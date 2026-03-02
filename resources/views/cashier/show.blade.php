@@ -19,7 +19,7 @@
         <div class="card-body">
             <div class="row g-3">
                 <div class="col-md-6">
-                    <div><strong>ID Transaksi:</strong> #{{ $transaction->id }}</div>
+                    <div><strong>ID Transaksi:</strong> No{{ $transaction->id }}</div>
                     <div><strong>Invoice:</strong> {{ $transaction->invoice_code }}</div>
                     <div><strong>Kasir (User):</strong> {{ $transaction->user?->name ?? 'User tidak ditemukan' }}</div>
                 </div>
